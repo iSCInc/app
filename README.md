@@ -9,7 +9,7 @@ app
 
 ----
 
-* Founder: Suriyaa Kudo [http://suriyaa.isc](http://suriyaakudo.bplaced.net/)
+* Founder: Suriyaa Kudo ([http://suriyaa.isc](http://suriyaakudo.bplaced.net/))
 * Website: [http://app.inc.isc](http://suriyaakudo.bplaced.net/)
 * License: [Copyright](http://licenses.isc/copyright/)
 * Meaning: Use only in iSC Inc. farm, keep copyright!
