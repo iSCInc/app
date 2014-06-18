@@ -14,6 +14,8 @@ app
 * License: [Copyright](http://licenses.isc/copyright/)
 * Meaning: Use only in iSC Inc. farm, keep copyright!
 
+----
+
 ### Contributors:
 * [suriyaa](https://github.com/SuriyaaKudoIsc)
 * tons of others (see pulls ans issues)
