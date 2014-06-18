@@ -17,7 +17,7 @@ app
 ----
 
 ### Contributors:
-* [suriyaa](https://github.com/SuriyaaKudoIsc)
+* [Suriyaa Kudo](https://github.com/SuriyaaKudoIsc)
 * tons of others (see pulls ans issues)
 
 ### ToDo
