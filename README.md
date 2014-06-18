@@ -5,6 +5,8 @@ app
 
 ### A wiki software for the iSC Inc. farm.
 
+© 2014 iSC Inc. All rights reserved.
+
 ----
 
 * Founder: Suriyaa Kudo [http://suriyaa.isc](http://suriyaakudo.bplaced.net/)
