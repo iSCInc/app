@@ -1,0 +1,1 @@
+iSC DataBase is a schema file for iSC Servers. This database is similar to MySQL.
