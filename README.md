@@ -13,12 +13,10 @@ app
 * Website: [http://app.inc.isc](http://suriyaakudo.bplaced.net/)
 * License: [Copyright](http://licenses.isc/copyright/)
 * Meaning: Use only in iSC Inc. farm, keep copyright!
-
+* FAQ: [http://mediawiki.inc.isc/FAQ](http://mediawiki.org/wiki/Manual:FAQ)
+* Versions: 0.1
+* 
 ----
-
-### Contributors:
-* [Suriyaa Kudo](https://github.com/SuriyaaKudoIsc)
-* tons of others (see pulls ans issues)
 
 ### ToDo
 
