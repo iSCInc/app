@@ -15,7 +15,7 @@ app
 * Meaning: Use only in iSC Inc. farm, keep copyright!
 * FAQ: [http://mediawiki.inc.isc/FAQ](http://mediawiki.org/wiki/Manual:FAQ)
 * Versions: 0.1
-* 
+
 ----
 
 ### ToDo
