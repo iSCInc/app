@@ -3,7 +3,7 @@ app
 
 ## iSC Inc. Application Code
 
-### A wiki software for the iSC Inc. farm.
+### A wiki software for the iSC Inc. farm. Based on MediaWiki.
 
 Copyright © 2014 iSC Inc. All rights reserved.
 
