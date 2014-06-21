@@ -1,6 +1,6 @@
 <?php
 /**
- * This is the main web entry point for MediaWiki.
+ * This is the main web entry point for iSC Inc. (MediaWiki).
  *
  * If you are reading this in your web browser, your server is probably
  * not configured correctly to run PHP applications!
