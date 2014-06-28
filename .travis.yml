@@ -1,11 +1,39 @@
+# Travis CI build configuration for iSC Inc. system
+# <https://travis-ci.org/iSCInc/app>
+#
+# The iSC Inc. uses a self-hosted git system to run a wiki.
+# Travis CI is only a usage for iSC Inc. on GitHub.
+#
 language: php
 
 php:
-  - 5.5
-  - 5.4
-  - hhvm
+  - hhvm-nightly
 
-script: phpunit
+services:
+  - mysql
+
+branches:
+  # Test changes in master and in iSC Inc.'s production branches.
+  only:
+    - master
+    - /^isc\/.*$/
+
+before_install:
+  - sudo apt-get install -qq djvulibre-bin tidy
+  - composer self-update --quiet --no-interaction
+
+before_script:
+  - composer install --prefer-source --quiet --no-interaction
+  - >
+      php maintenance/install.php traviswiki admin
+      --pass travis
+      --dbname traviswiki
+      --dbuser travis
+      --dbpass ""
+      --scriptpath "/w"
+
+script:
+  - php tests/phpunit/phpunit.php
 
 notifications:
   email:
