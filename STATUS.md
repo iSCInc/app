@@ -1,7 +1,7 @@
 # Travis CI
 ## iSC Inc. App
 ### on GitHub
-#### Copyright
+#### Copyright 2014
 
 [![Build Status](https://travis-ci.org/iSCInc/app.svg?branch=master)](https://travis-ci.org/iSCInc/app)
 
