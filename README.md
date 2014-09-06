@@ -1,22 +1,30 @@
-app
-===
+<!isc
 
-## iSC Inc. Application Code
+/** 
+  *   _  _____  _____   _____                 
+  *  (_)/  ___|/  __ \ |_   _|
+  *   _ \ `--. | /  \/   | |   _ __    ___    
+  *  | | `--. \| |       | |  | '_ \  / __|   
+  *  | |/\__/ /| \__/\  _| |_ | | | || (__  _ 
+  *  |_|\____/  \____/  \___/ |_| |_| \___|(_)
+  *
+  * iSC Inc. Application
+  *
+  *
+  * Copyright © 2014-present iSC Inc.
+  *
+  * A wiki software by/for the iSC Inc. farm.
+  * Based on [MediaWiki](http://mediawiki.org/).
+  *
+  * @author Suriyaa Kudo & iSC Inc.
+  * @email suriyaa@inc.isc
+  * @website http://mediawiki.isc
+  * @license Copyright / MIT / Apache v2 - Means: Use only in iSC Inc. farm, keep copyright!
+  * @date 2014/04/04 - present
+  *
+  */
 
-![iSC Inc. logo](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10311775_446903548788881_4170103557461429673_n.jpg)
-
-### A wiki software for the iSC Inc. farm. Based on [MediaWiki](http://mediawiki.org/).
-
-#### Copyright © 2014 iSC Inc. All rights reserved.
-
-----
-
-* Founder: **Suriyaa Kudo** ([http://suriyaa.isc](http://suriyaakudo.bplaced.net/))
-* Website: [http://app.inc.isc](http://suriyaakudo.bplaced.net/)
-* License: [Copyright](http://licenses.isc/copyright/)
-* Meaning: Use only in iSC Inc. farm, keep copyright!
-* FAQ: [http://mediawiki.inc.isc/FAQ](http://mediawiki.org/wiki/Manual:FAQ)
-* Versions: 0.1
+!>
 
 ----
 
@@ -26,3 +34,7 @@ app
 * Find bugs and fix it
 * finish it completly
 * and more
+
+## Source
+MediaWiki: http://www.mediawiki.org/wiki/
+ASCII Design: http://patorjk.com/software/taag/#p=testall&h=0&f=Blocks&t=iSC%20Inc.
