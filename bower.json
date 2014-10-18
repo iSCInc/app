@@ -1,0 +1,21 @@
+{
+  "name": "iscinc-app",
+  "version": "0.1-alpha",
+  "main": "core/README.md",
+  "license": "iSC Group License",
+  "ignore": [
+    "**/.*",
+    "test",
+    ".gitattributes",
+    ".gitreview",
+    "*.isc",
+    "STATUS.md",
+    "VERSIONS.md",
+    "phpinfo.php"
+  ],
+  "keywords": [
+    "iscinc",
+    "app",
+    "suriyaakudo"
+  ]
+}
