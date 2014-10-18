@@ -11,11 +11,19 @@
     "*.isc",
     "STATUS.md",
     "VERSIONS.md",
-    "phpinfo.php"
+    "phpinfo.php",
+    "node_modules",
+    "bower_components",
+    "tests"
   ],
   "keywords": [
     "iscinc",
     "app",
     "suriyaakudo"
-  ]
+  ],
+  "homepage": "http://iscinc.github.io/app",
+  "authors": [
+    "Suriyaa Kudo <isc.suriyaa@gmail.com>"
+  ],
+  "description": "iSC Inc. Application Code is used for the wiki farm \"iSC Inc.\"."
 }
